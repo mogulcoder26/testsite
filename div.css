@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+/* most important! */
+
+div {
+    background-color: #f7f7ee;
+    margin: 0;
+    /* border-width: 10px 20px 30px 40px; */
+    padding: 20px;
+}
+
+.TopContainer {
+    /* background-color: #91D8E4; */
+    /* border: solid 20px; */
+    /* margin: 10px; */
+    padding-top: 100px;
+    position: relative;
+}
+
+/* .MiddleContainer {
+
+}
+
+.BottomContainer {
+    
+} */
+
+.Code {
+    text-decoration: underline;
+}
+
+/* <!--inline css display-> */
+
+
+h1 {
+    margin-top: 0;
+    size: 300%;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.football {
+    width: 250px;
+    height: 250px;
+}
+
+.chess {
+    width: 250px;
+    height: 250px;
+
+}
+
+.computer {
+    border-radius: 100%;
+
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
